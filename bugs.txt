@@ -1,0 +1,6 @@
+spacing in html page
+wrong id name in getElementById
+wrong query name
+missing () in function name
+wrong color name
+elements should be centered
